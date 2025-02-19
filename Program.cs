@@ -24,6 +24,8 @@ namespace Aula01Variaveis
             }
         }    
 
+
+        //amo minha vida
         public static void CalcularMedia()
         {
             Console.WriteLine("Digite a primeira nota");
@@ -46,7 +48,7 @@ namespace Aula01Variaveis
 
 
 
-
+        //Hello Word!
 
 
 
@@ -68,7 +70,7 @@ namespace Aula01Variaveis
             string cabecalho = string.Format("{0:dddd}, {0:dd} de {0:MMMM} de {0:yyyy} - {0:HH:mm:ss}", DateTime.Now);
             Console.WriteLine(cabecalho.ToUpper());
         }
-
+        //este mundo é lindo
 
     }
 }
